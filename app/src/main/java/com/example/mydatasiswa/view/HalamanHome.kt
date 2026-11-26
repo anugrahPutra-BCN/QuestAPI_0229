@@ -189,6 +189,7 @@ fun SiswaCard(
                     style = MaterialTheme.typography.titleMedium,
                 )
             }
+
             Text(
                 text = siswa.alamat,
                 style = MaterialTheme.typography.titleMedium,
